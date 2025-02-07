@@ -1,2 +1,3 @@
-# bc
-配信用のリポジトリ
+# memo
+
+just memo
