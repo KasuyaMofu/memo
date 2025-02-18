@@ -14,8 +14,8 @@ assignees: ''
 - Rspamd [releases](https://github.com/rspamd/rspamd/releases) [discussions](https://github.com/rspamd/rspamd/discussions)
 - Apache SpamAssassin [news](https://spamassassin.apache.org/news.html)
 - ClamAV [releases](https://github.com/Cisco-Talos/clamav/releases)
-- OpenSSH https://www.openssh.com/releasenotes.html
-- nginx https://nginx.org/news.html
+- OpenSSH [releasenotes](https://www.openssh.com/releasenotes.html) 
+- nginx [news](https://nginx.org/news.html) 
 
 ## その他
 
