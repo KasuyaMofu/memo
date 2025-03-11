@@ -28,3 +28,9 @@ assignees: ''
 - JPCERT/CC [official](https://www.jpcert.or.jp/) [Weekly Report](https://www.jpcert.or.jp/wr/) [Eyes](https://blogs.jpcert.or.jp/ja/)
 - JPRS [メルマガ](https://jprs.jp/mail/) 
 - セキュリティイベントカレンダー [calendar.google.comより](https://calendar.google.com/calendar/u/0/embed?src=4u9fvij6ul4oug11bcphr8ofb0@group.calendar.google.com&pli=1)
+
+<details>
+
+- https://x.com/it_infra_meetup
+  
+</details>
