@@ -9,24 +9,28 @@ assignees: ''
 
 ## TOC
 
-1. アイスブレーク
+1. アイスブレーク（近況、福岡のこと）
 2. 今週のITエンジニアトピック
 3. JPCERT Weekely
 4. Updates
 
 ## アイスブレーク
 
-- 近況
-- 福岡のこととか
+### 近況
 
-## 今週のITエンジニアトピック
+- 今週どうだった？
+
+### 福岡
+
+- [福岡リスト](https://x.com/i/lists/1819659767457235339), [西日本新聞](https://www.nishinippon.co.jp/), [Googleニュース](https://news.google.com/search?q=%E7%A6%8F%E5%B2%A1&hl=ja&gl=JP&ceid=JP%3Aja)
+
+### 今週のITエンジニアトピック
 
 - Xのお気に入り欄を見る
-- issueにメモってある
 
 ## JPCERT Weekely等
 
-- JPCERT/CC [official](https://www.jpcert.or.jp/) [Weekly Report](https://www.jpcert.or.jp/wr/) [Eyes](https://blogs.jpcert.or.jp/ja/)
+- JPCERT/CC [official](https://www.jpcert.or.jp/), [Weekly Report](https://www.jpcert.or.jp/wr/), [Eyes](https://blogs.jpcert.or.jp/ja/)
 
 ## Updates
 
@@ -46,15 +50,10 @@ assignees: ''
 
 ### メール系
 
-- Postfix [announcements](https://www.mail-archive.com/postfix-announce@postfix.org/maillist.html) [users](https://www.mail-archive.com/postfix-users@postfix.org/maillist.html)
-- Dovecot [official](https://www.dovecot.org/) [ML](https://dovecot.org/mailman3/hyperkitty/list/dovecot@dovecot.org/)
-- Rspamd [releases](https://github.com/rspamd/rspamd/releases) [discussions](https://github.com/rspamd/rspamd/discussions)
-- Apache SpamAssassin [news](https://spamassassin.apache.org/news.html)
-- ClamAV [releases](https://github.com/Cisco-Talos/clamav/releases)
+- Postfix([announcements](https://www.mail-archive.com/postfix-announce@postfix.org/maillist.html) [users](https://www.mail-archive.com/postfix-users@postfix.org/maillist.html)), Dovecot([official](https://www.dovecot.org/) [ML](https://dovecot.org/mailman3/hyperkitty/list/dovecot@dovecot.org/))
+- Rspamd([releases](https://github.com/rspamd/rspamd/releases) [discussions](https://github.com/rspamd/rspamd/discussions)), Apache SpamAssassin([news](https://spamassassin.apache.org/news.html)), ClamAV([releases](https://github.com/Cisco-Talos/clamav/releases))
 - DMARC wg [documents](https://datatracker.ietf.org/wg/dmarc/documents/)
-- JPAAWG [X](https://x.com/jpaawg)
-- TwoFive [official](https://www.twofive25.com/)
-- フィッシング対策協議会 [X](https://x.com/antiphishing_jp) 
+- JPAAWG [X](https://x.com/jpaawg), TwoFive [official](https://www.twofive25.com/), フィッシング対策協議会 [X](https://x.com/antiphishing_jp) 
 - [Gartner選出](https://www.gartner.com/doc/reprints?ct=241010&id=1-2J20K7ZF) [proofpoint](https://www.proofpoint.com/jp/newsroom#press-releases) [Abnormal](https://abnormalsecurity.com/about/news) [Cloudflare](https://www.cloudflare.com/ja-jp/zero-trust/products/email-security/)
 
 ### セキュリティ
@@ -63,6 +62,6 @@ assignees: ''
 - JPRS [メルマガ](https://jprs.jp/mail/) 
 - セキュリティイベントカレンダー [calendar.google.comより](https://calendar.google.com/calendar/u/0/embed?src=4u9fvij6ul4oug11bcphr8ofb0@group.calendar.google.com&pli=1)
 
-## その他
+### その他
 
 - [ITインフラ集会(@it_infra_meetup)](https://x.com/it_infra_meetup)
